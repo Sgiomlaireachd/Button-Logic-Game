@@ -20,7 +20,7 @@ namespace Logic_Game
         private void Form1_Load(object sender, EventArgs e)
         {
             Random rand = new Random();
-            int N = 8;
+            int N = 2;
             int GAP = 15;
             int BUTTON_SIZE = 65;
             Btn[,] buttons = new Btn[N, N];
