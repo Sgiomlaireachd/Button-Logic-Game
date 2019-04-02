@@ -119,7 +119,7 @@ namespace Logic_Game
                 buttons[i + 1, j].display();
             }
 
-            if (allButtonsAreActive())
+            if (allButtonsAreInactive())
             {
                 MessageBox.Show("YOU WON!","Congratulations");
             }
@@ -137,13 +137,13 @@ namespace Logic_Game
             N = n;
         }
 
-        bool allButtonsAreActive()
+        bool allButtonsAreInactive()
         {
             for(int i = 0; i < N; i++)
             {
                 for(int j = 0; j < N; j++)
                 {
-                    if (!buttons[i, j].active) return false;
+                    if (buttons[i, j].active) return false;
                 }
             }
             return true;
