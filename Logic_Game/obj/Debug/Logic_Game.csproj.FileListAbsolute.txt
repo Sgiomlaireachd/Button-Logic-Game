@@ -1,0 +1,10 @@
+C:\Users\fartu\source\repos\C#\Logic_Game\Logic_Game\obj\Debug\Logic_Game.csprojAssemblyReference.cache
+C:\Users\fartu\source\repos\C#\Logic_Game\Logic_Game\obj\Debug\Logic_Game.Form1.resources
+C:\Users\fartu\source\repos\C#\Logic_Game\Logic_Game\obj\Debug\Logic_Game.Properties.Resources.resources
+C:\Users\fartu\source\repos\C#\Logic_Game\Logic_Game\obj\Debug\Logic_Game.csproj.GenerateResource.cache
+C:\Users\fartu\source\repos\C#\Logic_Game\Logic_Game\obj\Debug\Logic_Game.csproj.CoreCompileInputs.cache
+C:\Users\fartu\source\repos\C#\Logic_Game\Logic_Game\bin\Debug\Logic_Game.exe.config
+C:\Users\fartu\source\repos\C#\Logic_Game\Logic_Game\bin\Debug\Logic_Game.exe
+C:\Users\fartu\source\repos\C#\Logic_Game\Logic_Game\bin\Debug\Logic_Game.pdb
+C:\Users\fartu\source\repos\C#\Logic_Game\Logic_Game\obj\Debug\Logic_Game.exe
+C:\Users\fartu\source\repos\C#\Logic_Game\Logic_Game\obj\Debug\Logic_Game.pdb
